@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /dailyplanner_website/privacy.html
+Disallow: /dailyplanner_website/terms.html
+
+Sitemap: https://pcristo.dev/dailyplanner_website/sitemap.xml
