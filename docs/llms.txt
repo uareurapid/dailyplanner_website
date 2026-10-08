@@ -1,0 +1,34 @@
+# Daily Planner — Goals Tracker
+
+> Your personal motivation and tasks assistant. Manage daily tasks, set routines, track goals, and stay focused — simply and effectively.
+
+Daily Planner is a productivity app for iOS and Android that helps users plan tasks, visualize progress, and build consistent daily routines. Designed for people who find most planning apps overcomplicated.
+
+## Key Pages
+
+- [Home](https://pcristo.dev/dailyplanner_website/): Features and download
+- [App Store](https://apps.apple.com/us/app/daily-planner-goals-tracker/id6757503582): Download on iOS
+- [Google Play](https://play.google.com/store/apps/details?id=com.pcdreams.dailyplanner): Download on Android
+- [Privacy Policy](https://pcristo.dev/dailyplanner_website/privacy.html)
+- [Terms and Conditions](https://pcristo.dev/dailyplanner_website/terms.html)
+
+## Features
+
+- **Interactive UI Widgets** — Interactive timeline and calendar; simple, intuitive interface
+- **Daily Task & Goal Planning** — Track goals and completion progress; stay motivated with visual status
+- **Custom Routine Scheduling** — Schedule, update, and delete recurring (Pro) plans
+- **Unlimited Tasks & Reminders** — Plan days, weeks, or months ahead (Pro); never miss important items
+
+## Pricing
+
+- **Free** — Core task planning features
+- **Pro** — Recurring plans, unlimited tasks, extended reminders (in-app purchase)
+
+## Availability
+
+- iOS (App Store) — Free to download
+- Android (Google Play) — Free to download
+- App Store ID: 6757503582
+- Google Play package: com.pcdreams.dailyplanner
+
+Made by Paulo Cristo © 2026

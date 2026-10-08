@@ -1,0 +1,75 @@
+# Daily Planner — Goals Tracker: Full Reference
+
+> Your personal motivation and tasks assistant. Manage daily tasks, set routines, track goals, and stay focused — simply and effectively.
+
+Daily Planner - Goals Tracker is a productivity app for iOS and Android designed to cut through the complexity of most planning tools. Built around the idea that the best productivity app is one you actually use — simple enough to open daily, powerful enough to keep you on track.
+
+**Website:** https://pcristo.dev/dailyplanner_website/  
+**App Store:** https://apps.apple.com/us/app/daily-planner-goals-tracker/id6757503582  
+**Google Play:** https://play.google.com/store/apps/details?id=com.pcdreams.dailyplanner  
+**Platform:** iOS (iPhone and iPad) and Android  
+**Made by:** Paulo Cristo
+
+---
+
+## Core Philosophy
+
+Tired of overcomplicated apps that don't really help you? Daily Planner delivers functionality and simplicity at the touch of a finger. Keep track of your tasks and schedule, plan and visualize progress, and manage your daily goals in a simple and effective way.
+
+---
+
+## Features
+
+### Interactive UI Widgets
+- Interactive timeline view showing your day at a glance
+- Calendar integration for month and week views
+- Simple, intuitive UI designed to keep your focus on what matters — not the app itself
+
+### Daily Task & Goal Planning
+- Create and track daily goals with completion status
+- Visual progress indicators to stay motivated
+- Clear overview of what's done vs. what's pending
+
+### Custom Routine Scheduling
+- Schedule your personal routine with recurring events
+- Update and delete tasks easily
+- Recurrent plans (Pro) save setup time for repeated activities
+
+### Unlimited Tasks & Reminders
+- Plan days, weeks, or months ahead
+- Set reminders for important tasks
+- Unlimited tasks and future planning (Pro)
+
+---
+
+## Pricing
+
+| Tier | Features |
+|------|---------|
+| **Free** | Core task planning, basic timeline, calendar view |
+| **Pro** | Recurring plans, unlimited tasks & reminders, extended scheduling |
+
+Pro features available as in-app purchase.
+
+---
+
+## Availability
+
+- iOS — Free to download
+- Android — Free to download
+- App Store ID: 6757503582
+- Google Play package: com.pcdreams.dailyplanner
+- Compatible with iPhone, iPad, and Android devices
+
+---
+
+## Links
+
+- Home: https://pcristo.dev/dailyplanner_website/
+- App Store: https://apps.apple.com/us/app/daily-planner-goals-tracker/id6757503582
+- Google Play: https://play.google.com/store/apps/details?id=com.pcdreams.dailyplanner
+- Privacy Policy: https://pcristo.dev/dailyplanner_website/privacy.html
+- Terms and Conditions: https://pcristo.dev/dailyplanner_website/terms.html
+- Contact: paulocristo@me.com
+
+© 2026 Paulo Cristo. All rights reserved.
